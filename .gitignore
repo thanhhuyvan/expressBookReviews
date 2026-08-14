@@ -1,4 +1,7 @@
 # Distribution / packaging
 node_modules
+.DS_Store
+final_project/api-cookies.txt
+final_project/register-request.json
 
 
